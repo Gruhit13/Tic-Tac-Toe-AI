@@ -14,4 +14,6 @@ be polaced is selected.
 
 The only limitation of this model is it can play at its best. 
 
-![alt text](https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-MainScreen.png?raw=true)
+![alt text](https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-MainScreen.png?raw=true = 250)
+
+<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-MainScreen.png" alt="Board" width="300" height="300">
