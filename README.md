@@ -13,3 +13,5 @@ be polaced is selected.
 #########################<-Work Flow->###############################
 
 The only limitation of this model is it can play at its best. 
+
+![alt text](https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-MainScreen.png?raw=true)
