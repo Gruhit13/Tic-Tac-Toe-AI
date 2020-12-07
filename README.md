@@ -13,3 +13,5 @@ be polaced is selected.
 #########################<-Work Flow->###############################
 
 The only limitation of this model is it can play at its best. 
+
+![plot](C:\Users\HOME\Desktop\CodeHere\Anaconda\Pycharm\Tic-Tac-Toe-AI-master\Screenshot-MainScreen.png)
