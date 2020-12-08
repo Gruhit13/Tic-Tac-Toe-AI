@@ -20,12 +20,18 @@ The main thing about it is that it is uses Supervised learning algorithm.
 
 # IMAGES
 
-## Board
-<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-MainScreen.png" alt="Board" width="300" height="300">
+## -> Board
+<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-MainScreen.png" alt="Board" width="350" height="350">
 
 
-## In Game
-<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-InGame1.png" alt="InGame" width="300" height="300">
+## -> In Game
+<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-InGame1.png" alt="InGame" width="350" height="350">
 
-## AI Won
-<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-AiWon.png" alt="aiwon" width="300" height="300">
+## -> AI Won
+<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-AiWon.png" alt="aiwon" width="350" height="350">
+
+## -> Win Screen
+<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/finalAIwon.png" alt="finalaiwon" width="350" height="350">
+
+## -> Replay Screen
+<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/ReplayScreen.png" alt="replayscreen" width="350" height="350">
