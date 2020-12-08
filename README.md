@@ -16,3 +16,10 @@ The only limitation of this model is it can play at its best.
 
 ## Board
 <img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-MainScreen.png" alt="Board" width="300" height="300">
+
+
+## In Game
+<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-InGame1.png" alt="InGame" width="300" height="300">
+
+## AI Won
+<img src="https://github.com/Gruhit13/Tic-Tac-Toe-AI/blob/master/Screenshot-AiWon.png" alt="aiwon" width="300" height="300">
